@@ -1,0 +1,16 @@
+[project]
+name = "jb-atualiza-bigquery-realtime"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.8"
+dependencies = [
+    "db-dtypes>=1.4.2",
+    "google-cloud-bigquery>=3.31.0",
+    "google-cloud-bigquery-storage>=2.30.0",
+    "pandas>=2.2.3",
+    "python-dotenv>=1.1.1",
+    "snowflake-sqlalchemy>=1.7.6",
+    "sqlalchemy>=2.0.43",
+    "pyarrow<19.0.0",
+]
