@@ -23,4 +23,4 @@ Projetos relacionados à construção e automação de pipelines de dados, desde
 
 As pipelines estão organizadas individualmente, permitindo acompanhar o desenvolvimento, as tecnologias utilizadas e o fluxo de cada projeto.
 
-**Data Engineering · ETL · ELT · Orchestration**
+**Data Engineering · ETL · ELT · Orchestration · Data Lake · Data Warehouse**
